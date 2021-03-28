@@ -1,3 +1,5 @@
+# I am trying to figure out all this, python, github, dockers etc
+
 """All methods needed to bootstrap a Home Assistant instance."""
 from __future__ import annotations
 
